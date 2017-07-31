@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 100px;
+}
+
+#box {
+    width: 6.39rem;
+    height: 11.36rem;
+    box-sizing: border-box;
+    border: .05rem solid black;
+    overflow: scroll;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    border: .02rem solid gray;
+    box-shadow: .03rem .03rem .1rem .02rem black;
+    box-sizing: border-box;
+    padding: .2rem;
+    margin: .05rem 0;
+    border-left: none;
+    border-right: none;
+}
+
+li>h2 {
+    padding: .02rem 0;
+    color: aqua;
+    line-height: .43rem;
+    font-size: .28rem;
+}
+
+img {
+    vertical-align: top;
+    width: 100%;
+}
+
+
+
+
